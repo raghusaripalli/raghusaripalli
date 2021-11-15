@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghusaripalli&label=Profile+Views&color=blue&style=plastic" alt="raghusaripalli" /> </p>
 
-- 🔭 I’m currently working on [Apache Spark](https://spark.apache.org/)
-- 🌱 I’m currently learning React
-- 💬 Ask me about Spark or any tech related stuff.
+- 🔭 I’m currently working on [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+- 🌱 I’m currently learning Algo, DS and F#
+- 💬 Ask me about from Application Development, Databases to Cloud.
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/saripalliraghu)
-- 🥅 2020 Goals: Full Stack Projects with React and Spring Boot
+- 🥅 2021 Goals: Algo, DS, Databases and Distributed Systems
 - ⚡ Fun fact: Coding is like a meditation for me
 
 ### Languages and Tools:
