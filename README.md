@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghusaripalli&label=Profile+Views&color=blue&style=plastic" alt="raghusaripalli" /> </p>
 
-- 🔭 I’m currently working on [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
-- 🌱 I’m currently learning Algo, DS and F#
+- 🔭 I’m currently working on [Golang](https://go.dev/)
+- 🌱 I’m currently learning Algo, DS and Golang
 - 💬 Ask me about from Application Development, Databases to Cloud.
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/saripalliraghu)
-- 🥅 2021 Goals: Algo, DS, Databases and Distributed Systems
+- 🥅 2022 Goals: Big data and Distributed Systems
 - ⚡ Fun fact: Coding is like a meditation for me
 
 ### Languages and Tools:
